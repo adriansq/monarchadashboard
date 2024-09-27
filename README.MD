@@ -1,6 +1,8 @@
 
 <div align="center" style="margin: 30px;">
 <img src="https://refine.ams3.cdn.digitaloceanspaces.com/example-readmes/CRM-Minimal/minimal-crm-cover.png" alt="Refine Logo"  />
+</div>
+
 <br />
 <br />
 
