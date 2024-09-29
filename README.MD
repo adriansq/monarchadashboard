@@ -8,9 +8,9 @@
 
 ## About
 
-Enterprise-grade and production-ready internal tool example named "Real-Time CRM Dashboard" for Monarcha Consulting, a digital marketing agency.
+Enterprise-grade internal tool example named "Real-Time CRM Dashboard" for Monarcha Consulting, a digital marketing agency.
 
-Refine is an open-source React framework specifically designed to meet the requirements of enterprise companies dev teams. It comes with a core package that simplifies app requirements like data handling, authentication, access control, etc.
+Refine is an open-source React framework designed to meet the requirements of enterprise companies dev teams. It comes with a core package that simplifies app requirements like data handling, authentication, access control, etc.
 
 The repository is open-source; feel free to use or inspect it to discover how Refine works.
 
@@ -24,10 +24,6 @@ The repository is open-source; feel free to use or inspect it to discover how Re
 - Vite
 
 ## Features
-
-**Authentication**: Seamless onboarding with secure login and signup functionalities; robust password recovery ensures a smooth authentication experience.
-
-**Authorization**: Granular access control regulates user actions, maintaining data security and user permissions.
 
 **Home Page**: Dynamic home page showcases interactive charts for key metrics; real-time updates on activities, upcoming events, and a deals chart for business insights.
 
